@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
+
 from tensorflow.keras.models import load_model
 
 # Load your dataset
