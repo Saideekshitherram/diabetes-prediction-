@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-from tensorflow.keras.models import load_model
-
 # Load your dataset
 data = pd.read_csv('mlp.csv')
 
